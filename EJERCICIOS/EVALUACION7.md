@@ -75,4 +75,11 @@ siguiente procedimiento:
   siguiente mensaje: Perros actuales en la estética: “Número de
   perros”.
 
-            TU CODIGO AQUI
+
+![java](https://github.com/JatzArroyo/Java/assets/111532416/ef3b6b89-627a-4e63-881d-446cc721b441)
+
+
+![java2](https://github.com/JatzArroyo/Java/assets/111532416/faea061f-9d80-4cb7-b83a-e2c9d4314753)
+
+
+
